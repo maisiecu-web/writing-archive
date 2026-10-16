@@ -8,5 +8,5 @@ The whole site is one file, `index.html`. Open it in any browser, on a phone or 
 
 Writing © Maisie. Please don't reproduce the essays without asking.
 
-Live at [
-](https://maisiecu-web.github.io/writing-archive/)
+Live at https://maisiecu-web.github.io/writing-archive/
+
